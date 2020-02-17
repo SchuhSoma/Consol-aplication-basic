@@ -1,0 +1,7 @@
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\bin\Debug\ConsoleApp120200217.exe.config
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\bin\Debug\ConsoleApp120200217.exe
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\bin\Debug\ConsoleApp120200217.pdb
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\obj\Debug\ConsoleApp120200217.csprojAssemblyReference.cache
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\obj\Debug\ConsoleApp120200217.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\obj\Debug\ConsoleApp120200217.exe
+C:\Users\Soma\source\repos\ConsoleApp120200217\ConsoleApp120200217\obj\Debug\ConsoleApp120200217.pdb
